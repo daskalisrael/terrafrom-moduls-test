@@ -7,6 +7,7 @@ data_center = [
   {
     data_center_name = "dc02",
     location = "westus",
+    
     vnet_subnet = [ "10.2.0.0/16" ]
   }
   ]
